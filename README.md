@@ -1,9 +1,9 @@
 # Excel_Pivot_tabellen
-Aggregation (Summe, Anzahl, Durchschnitt)
-Gruppierung 
-Berechnetes Feld
-Wertfeldeinstellungen
-Slicer und Zeitachse
+Aggregation (Summe, Anzahl, Durchschnitt).
+Gruppierung.
+Berechnetes Feld.
+Wertfeldeinstellungen.
+Slicer und Zeitachse.
 
 
 ![Auswertung 1](auswertung1.png)
